@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<docentes>
+    <docente>
+        <numero_empleado>1001</numero_empleado>
+        <nombre>Ana López Ramírez</nombre>
+        <especialidad>Sistemas Computacionales</especialidad>
+    </docente>
+    <docente>
+        <numero_empleado>1002</numero_empleado>
+        <nombre>Carlos Medina Soto</nombre>
+        <especialidad>Mecatrónica</especialidad>
+    </docente>
+    <docente>
+        <numero_empleado>1003</numero_empleado>
+        <nombre>Laura Treviño Garza</nombre>
+        <especialidad>Procesos Industriales</especialidad>
+    </docente>
+</docentes>
