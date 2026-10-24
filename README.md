@@ -12,3 +12,8 @@ Python 3 y la libreria pyyaml (python -m pip install pyyaml)
 
 ## Integrantes
 - Ashley Sarahi Rodriguez Flores
+
+## Formatos de salida
+- docentes.json
+- docentes.yaml
+- docentes.xml
